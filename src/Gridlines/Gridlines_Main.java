@@ -7,7 +7,7 @@ package Gridlines;
 
 /**
  *
- * @author Josue Montesinos
+ * @author Nelson Josue Montesinos
  */
 public class Gridlines_Main {
 
